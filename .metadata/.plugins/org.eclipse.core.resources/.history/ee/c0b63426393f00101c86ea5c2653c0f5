@@ -1,0 +1,5 @@
+package com.psa.config;
+
+public class KafkaConsumerConfig {
+
+}

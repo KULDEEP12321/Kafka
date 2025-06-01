@@ -1,0 +1,5 @@
+package com.psa.entity;
+
+public class Order {
+
+}
