@@ -1,5 +1,5 @@
 # Kafka
-This repo tells how to setup kafka and a simple steps to integrate kafka between producer and subscriber using STS.
+This repo tells how to setup kafka and simple steps to integrate kafka between producer and subscriber using STS.
 
 Kafka acts as a message broker between customer app and hotel app
 
